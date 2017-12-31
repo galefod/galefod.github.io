@@ -5,3 +5,9 @@ published: true
 ---
 
 Tras haber leído las instrucciones, he conseguido poner este blog en marcha.
+
+Primer verso  
+segundo.
+
+Primero, primero
+segundo.
